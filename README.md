@@ -1,8 +1,9 @@
 # CristinaAcosta.github.io
 
-## Links: 
+## Links: https://cristinaacosta.github.io/
 
 ## Description:
+This is a portfolio used to display some of the projects that I have completed. This will be used to showcase to future employers what type if coding language and programs that I can use. 
 
 
 ## Technologies Used:
@@ -11,7 +12,7 @@
 - Bootstrap
 
 ## Things we learned:
-
+    I learned how to get a full page image on the main page and I also figured out the cards in Bootstrap. 
     
 ## Website Images:
 
