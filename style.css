@@ -102,6 +102,11 @@
 }
 
 .resize{
-    width: 600px;
+    width: 300px;
     height: auto;
+}
+
+#skill-list{
+        display: inline-block;
+        text-align: left;
 }
