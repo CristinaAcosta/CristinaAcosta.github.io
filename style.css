@@ -5,3 +5,80 @@
     padding-bottom: 10px;
 }
 
+.navbar{
+     background:#F97300;
+    }
+
+.nav-link , .navbar-brand{ 
+    color: #f4f4f4; cursor: pointer;
+}
+
+.nav-link{
+    margin-right: 1em !important;
+}
+
+.nav-link:hover{ 
+    background: #f4f4f4; color: #f97300;
+ }
+
+.navbar-collapse{ 
+    justify-content: flex-end;
+}
+
+.navbar-toggler{  
+    background:#fff !important;
+}
+
+.navbar-fixed-top {
+    position: fixed;
+}
+
+.bg-light {
+    background-color: #869eb6!important ;
+}
+
+
+   body,html { 
+    padding-top: 65px; 
+    height: 100%;
+    padding-bottom: 80px;
+}
+ 
+.bg {
+    background-image: url("Images/lo-fi-24.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+  }
+
+  .container {
+    position: relative;
+    text-align: center;
+  }
+  
+  .text-block {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 50px;
+
+  }
+
+  .footer{
+      background-color: gray;
+  }
+
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
