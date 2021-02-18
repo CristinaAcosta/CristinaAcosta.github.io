@@ -82,3 +82,25 @@
     text-align: center;
     text-decoration: none;
   }
+
+  #contact {
+      border: black;
+      border-width: small;
+      border-style: solid;
+      padding-left: 20px;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      padding-right: 20px;
+  }
+
+.card {
+    border: black;
+      border-width: small;
+      border-style: solid;
+      text-align: center ;
+}
+
+.resize{
+    width: 600px;
+    height: auto;
+}
