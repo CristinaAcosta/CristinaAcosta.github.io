@@ -6,7 +6,7 @@
 }
 
 .navbar{
-     background:rgba(96, 109, 133, 1);
+     background:#a37b9d;
     }
 
 .nav-link , .navbar-brand{ 
@@ -18,7 +18,7 @@
 }
 
 .nav-link:hover{ 
-    background: #f4f4f4; color: rgba(96, 109, 133, 1);
+    background: #f4f4f4; color: #a37b9d);
  }
 
 .navbar-collapse{ 
@@ -38,38 +38,47 @@
 }
 
 
-   body,html { 
-    padding-top: 65px; 
+body,html { 
+    padding-top: 50px; 
     height: 100%;
     padding-bottom: 80px;
 }
  
-.bg {
-    background-image: url("Images/lo-fi-24.jpg");
+.split {
     height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  .left {
+    left: 0;
+    background-color:#92b8c9;
+    border-radius: 15px;
+  }
+  
+  .right {
+    right: 0;
+    background-color: white;
+    border-radius: 15px;
+  }
+  
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     text-align: center;
-    font-family: 'Raleway', sans-serif;
+
   }
 
   .container {
     position: relative;
     text-align: center;
-  }
-  
-  .text-block {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color:rgba(96, 109, 133, 1);
-    color: white;
-    padding-left: 20px;
-    padding-right: 20px;
-    font-size: 50px;
-
   }
 
   .footer{
@@ -77,7 +86,6 @@
   }
 
   .fab {
-   
     font-size: 40px;
     width: 50px;
     text-align: center;
@@ -103,13 +111,6 @@
       padding-top: 20px;
       padding-bottom: 20px;
       padding-right: 20px;
-  }
-
-.card {
-    border: black;
-      border-width: small;
-      border-style: solid;
-      text-align: center ;
 }
 
 .resize{
