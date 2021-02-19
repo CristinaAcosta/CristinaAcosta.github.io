@@ -6,7 +6,7 @@
 }
 
 .navbar{
-     background:#a37b9d;
+     background: #a37b9d;
     }
 
 .nav-link , .navbar-brand{ 
@@ -14,11 +14,11 @@
 }
 
 .nav-link{
-    margin-right: 1em !important;
+    margin-right: 1em;
 }
 
 .nav-link:hover{ 
-    background: #f4f4f4; color: #a37b9d);
+    background: #f4f4f4; color: #a37b9d;
  }
 
 .navbar-collapse{ 
@@ -26,7 +26,7 @@
 }
 
 .navbar-toggler{  
-    background:#fff !important;
+    background:#fff ;
 }
 
 .navbar-fixed-top {
@@ -34,7 +34,7 @@
 }
 
 .bg-light {
-    background-color: #869eb6!important ;
+    background-color: #869eb6;
 }
 
 
@@ -82,7 +82,7 @@ body,html {
   }
 
   .footer{
-      background-color: rgba(96, 109, 133, 1);
+      background-color: #92b8c9;
   }
 
   .fab {
