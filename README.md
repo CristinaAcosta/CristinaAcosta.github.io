@@ -1,5 +1,7 @@
 # CristinaAcosta.github.io
 
+## Title: Cristina Acosta's Portfolio 
+
 ## Links: https://cristinaacosta.github.io/
 
 ## Description:
@@ -12,7 +14,7 @@ This is a portfolio used to display some of the projects that I have completed. 
 - Bootstrap
 
 ## Things we learned:
-    I learned how to get a full page image on the main page and I also figured out the cards in Bootstrap. 
+    I learned how to do a design a full web page with working links. I had some difficulties with some of the styling being where it needs to be.
     
 ## Website Images:
 <img width="1044" alt="Screen Shot 2021-02-18 at 7 31 42 PM" src="https://user-images.githubusercontent.com/74034987/108453745-f0891380-721f-11eb-84d9-a974de5f2a57.png">
@@ -24,7 +26,7 @@ This is a portfolio used to display some of the projects that I have completed. 
 <img width="1052" alt="Screen Shot 2021-02-18 at 7 33 15 PM" src="https://user-images.githubusercontent.com/74034987/108453848-262dfc80-7220-11eb-8875-a38540f63ad9.png">
 
 ## Author:
-- Cristina Acosta 
+- Cristina Acosta (cacost5695@yahoo.com)
 
 ## License:
 The MIT License (MIT)
