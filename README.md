@@ -15,6 +15,13 @@ This is a portfolio used to display some of the projects that I have completed. 
     I learned how to get a full page image on the main page and I also figured out the cards in Bootstrap. 
     
 ## Website Images:
+<img width="1044" alt="Screen Shot 2021-02-18 at 7 31 42 PM" src="https://user-images.githubusercontent.com/74034987/108453745-f0891380-721f-11eb-84d9-a974de5f2a57.png">
+
+<img width="1041" alt="Screen Shot 2021-02-18 at 7 32 16 PM" src="https://user-images.githubusercontent.com/74034987/108453782-04cd1080-7220-11eb-9561-befb5018fa9c.png">
+
+<img width="1039" alt="Screen Shot 2021-02-18 at 7 32 53 PM" src="https://user-images.githubusercontent.com/74034987/108453829-19a9a400-7220-11eb-8fa9-86ca3e82a9b2.png">
+
+<img width="1052" alt="Screen Shot 2021-02-18 at 7 33 15 PM" src="https://user-images.githubusercontent.com/74034987/108453848-262dfc80-7220-11eb-8875-a38540f63ad9.png">
 
 ## Author:
 - Cristina Acosta 
