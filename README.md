@@ -17,13 +17,12 @@ This is a portfolio used to display some of the projects that I have completed. 
     I learned how to do a design a full web page with working links. I had some difficulties with some of the styling being where it needs to be.
     
 ## Website Images:
-<img width="1044" alt="Screen Shot 2021-02-18 at 7 31 42 PM" src="https://user-images.githubusercontent.com/74034987/108453745-f0891380-721f-11eb-84d9-a974de5f2a57.png">
+<img width="1165" alt="Screen Shot 2021-02-18 at 8 26 07 PM" src="https://user-images.githubusercontent.com/74034987/108457468-8b392080-7227-11eb-90ac-3dd063ba75f8.png">
 
-<img width="1041" alt="Screen Shot 2021-02-18 at 7 32 16 PM" src="https://user-images.githubusercontent.com/74034987/108453782-04cd1080-7220-11eb-9561-befb5018fa9c.png">
+<img width="1174" alt="Screen Shot 2021-02-18 at 8 26 47 PM" src="https://user-images.githubusercontent.com/74034987/108457506-a0ae4a80-7227-11eb-81e0-4fe494019234.png">
 
-<img width="1039" alt="Screen Shot 2021-02-18 at 7 32 53 PM" src="https://user-images.githubusercontent.com/74034987/108453829-19a9a400-7220-11eb-8fa9-86ca3e82a9b2.png">
+<img width="1185" alt="Screen Shot 2021-02-18 at 8 27 18 PM" src="https://user-images.githubusercontent.com/74034987/108457548-b3c11a80-7227-11eb-9162-f13f66e4308c.png">
 
-<img width="1052" alt="Screen Shot 2021-02-18 at 7 33 15 PM" src="https://user-images.githubusercontent.com/74034987/108453848-262dfc80-7220-11eb-8875-a38540f63ad9.png">
 
 ## Author:
 - Cristina Acosta (cacost5695@yahoo.com)
