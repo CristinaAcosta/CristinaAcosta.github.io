@@ -55,17 +55,19 @@ body,html {
     padding-bottom: 20px;
   }
   
-  .left {
+  .container {
     left: 0;
     background-color:#92b8c9;
     border-radius: 15px;
+    height: 100%;
+    background: linear-gradient(45deg, #FFC0CB 50%, #00FFFF 50%);
   }
   
-  .right {
+ /* .right {
     right: 0;
     background-color: white;
     border-radius: 15px;
-  }
+  }*/
   
   .centered {
     position: absolute;
@@ -81,8 +83,21 @@ body,html {
     text-align: center;
   }
 
-  .footer{
-      background-color: #92b8c9;
+
+  #wrap {
+    min-height: 100%;
+  }
+  
+  #main {
+    overflow: auto;
+    padding-bottom: 180px;
+  }
+  
+  #footer {
+    position: relative;
+    margin-top: -180px;
+    height: 180px;
+    clear: both;
   }
 
   .fab {
