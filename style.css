@@ -47,6 +47,8 @@
     padding-bottom: 100px;
     text-align: center;
     background: linear-gradient(55deg, #daa2d6 50%, #8cbbcd 50%);
+    display: -webkit-flex;
+    display: flex;
   }
 
   .table {
@@ -120,4 +122,12 @@
 #skill-list{
         display: inline-block;
         text-align: left;
+}
+
+article {
+  -webkit-flex: 3;
+  -ms-flex: 3;
+  flex: 3;
+  background-color: #f1f1f1;
+  padding: 10px;
 }
