@@ -4,6 +4,15 @@
 
 ## Links: https://cristinaacosta.github.io/
 
+## Table of contents
+    1. Description
+    2. Technologies Used
+    3. Things we learned
+    4. Website Images
+    5. Author
+    6. License
+
+
 ## Description:
 This is a portfolio used to display some of the projects that I have completed. This will be used to showcase to future employers what type if coding language and programs that I can use. 
 
