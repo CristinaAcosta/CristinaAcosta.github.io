@@ -37,51 +37,24 @@
     background-color: #869eb6;
 }
 
-
 body,html { 
     padding-top: 50px; 
     height: 100%;
     padding-bottom: 80px;
 }
- 
-.split {
-    height: 100%;
-    width: 50%;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    overflow-x: hidden;
-    padding-top: 20px;
-    padding-bottom: 20px;
-  }
-  
+
   .bg-1 {
     left: 0;
-    background-color:#92b8c9;
     border-radius: 15px;
-    height: 500px;
-    margin-left: 100px;
-    margin-right: 100px;
-    padding-top: 15%;
+    height: 1000px;
+    padding-top: 20%;
     padding-left: 100px;
     padding-right: 100px;
     text-align: center;
     background: linear-gradient(45deg, #FFC0CB 50%, #00FFFF 50%);
   }
 
-  .bg-2 {
-    left: 0;
-    background-color:#92b8c9;
-    border-radius: 15px;
-    height: 500px;
-    margin-left: 100px;
-    margin-right: 100px;
-    padding-top: 15%;
-    padding-left: 100px;
-    padding-right: 100px;
-    text-align: center;
-    background: linear-gradient(45deg, #FFC0CB 50%, #00FFFF 50%);
-  }
+
   
   .centered {
     position: absolute;
