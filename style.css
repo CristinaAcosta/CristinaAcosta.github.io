@@ -50,8 +50,13 @@
   }
 
   .table {
+    border: black;
+      border-width: small;
+      border-style: solid;
     text-align: center;
-    background: white
+    background: white;
+    border-color: black;
+    box-shadow: 10px 10px 8px #888888;
   }
 
   .container-home {
@@ -102,6 +107,7 @@
       padding-top: 20px;
       padding-bottom: 20px;
       padding-right: 20px;
+      box-shadow: 10px 10px 8px #888888;
 }
 
 
