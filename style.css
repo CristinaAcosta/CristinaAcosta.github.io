@@ -99,7 +99,8 @@
     color: black;
 }
 
-  #contact {
+  #contact { 
+    background-color: white;
       border: black;
       border-width: small;
       border-style: solid;
