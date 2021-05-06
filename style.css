@@ -6,7 +6,7 @@
 }
 
 .navbar{
-     background: #a37b9d;
+     background: #7b797bbf;
     }
 
 .nav-link , .navbar-brand{ 
@@ -18,7 +18,7 @@
 }
 
 .nav-link:hover{ 
-    background: #f4f4f4; color: #a37b9d;
+    background: #f4f4f4; color:  #daa2d6;
  }
 
 .navbar-collapse{ 
@@ -38,9 +38,9 @@
 }
 
 body,html { 
-    padding-top: 50px; 
     height: 100%;
     padding-bottom: 80px;
+    background: linear-gradient(60deg, #daa2d6 50%, #8cbbcd 50%);
 }
 
   .bg-1 {
@@ -51,7 +51,7 @@ body,html {
     padding-left: 100px;
     padding-right: 100px;
     text-align: center;
-    background: linear-gradient(45deg, #FFC0CB 50%, #00FFFF 50%);
+    background: linear-gradient(45deg, #daa2d6 50%, #8cbbcd 50%);
   }
 
 
@@ -70,15 +70,15 @@ body,html {
     text-align: center;
   }
 
-  #footer {
-    position: relative;
-    margin-top: -180px;
-    height: 180px;
-    clear: both;
+  .footer-fixed{
+    background-color: #7b797bbf;
+  bottom: 0;
+  overflow: 100px;
+  width: 100%;
   }
 
   .fab {
-    font-size: 40px;
+    font-size: 50px;
     width: 50px;
     text-align: center;
     text-decoration: none;
@@ -86,12 +86,10 @@ body,html {
   }
 
   .fa-linkedin {
-      background: #0072b1;
       color: white;
   }
 
 .fa-github-square {
-    background: white ;
     color: black;
 }
 
@@ -104,6 +102,7 @@ body,html {
       padding-bottom: 20px;
       padding-right: 20px;
 }
+
 
 .resize{
     width: 300px;
