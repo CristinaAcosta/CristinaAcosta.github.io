@@ -1,10 +1,11 @@
 # CristinaAcosta.github.io
 
-## Title: Cristina Acosta's Portfolio 
+## Title: Cristina Acosta's Portfolio
 
 ## Links: https://cristinaacosta.github.io/
 
 ## Table of contents
+
     1. Description
     2. Technologies Used
     3. Things we learned
@@ -12,34 +13,41 @@
     5. Author
     6. License
 
-
 ## Description:
-This is a portfolio used to display some of the projects that I have completed. This will be used to showcase to future employers what type if coding language and programs that I can use. 
 
+This is a portfolio used to display examples of projects I have completed and examples of group projects. This can used to showcase my web development skills of various programs and languages I can use.
 
 ## Technologies Used:
+
 - HTML
 - CSS
 - Bootstrap
+- ORM
+- MySQL
+- Insomnia
+- Node
 
 ## Things we learned:
-    I learned how to do a design a full web page with working links. I had some difficulties with some of the styling being where it needs to be.
-    
+
+    I have learned how to deploy a website on Github and utilize BootStrap. I have learned how to put together a portfolio with working links.
+
 ## Website Images:
-<img width="1165" alt="Screen Shot 2021-02-18 at 8 26 07 PM" src="https://user-images.githubusercontent.com/74034987/108457468-8b392080-7227-11eb-90ac-3dd063ba75f8.png">
 
-<img width="1174" alt="Screen Shot 2021-02-18 at 8 26 47 PM" src="https://user-images.githubusercontent.com/74034987/108457506-a0ae4a80-7227-11eb-81e0-4fe494019234.png">
+<img width="1133" alt="Screen Shot 2021-05-17 at 7 12 21 PM" src="https://user-images.githubusercontent.com/74034987/118579932-cf16c580-b743-11eb-8dd3-3f787323bca7.png">
 
-<img width="1185" alt="Screen Shot 2021-02-18 at 8 27 18 PM" src="https://user-images.githubusercontent.com/74034987/108457548-b3c11a80-7227-11eb-9162-f13f66e4308c.png">
+<img width="1118" alt="Screen Shot 2021-05-17 at 7 12 47 PM" src="https://user-images.githubusercontent.com/74034987/118579970-e0f86880-b743-11eb-9c86-54d2b37060bf.png">
 
+<img width="1098" alt="Screen Shot 2021-05-17 at 7 13 13 PM" src="https://user-images.githubusercontent.com/74034987/118580007-ef468480-b743-11eb-9d19-134394b1d11e.png">
 
 ## Author:
+
 - Cristina Acosta (cacost5695@yahoo.com)
 
 ## License:
+
 The MIT License (MIT)
 
-Copyright (c) 2021 
+Copyright (c) 2021
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
