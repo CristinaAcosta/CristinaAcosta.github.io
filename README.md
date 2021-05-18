@@ -29,7 +29,7 @@ This is a portfolio used to display examples of projects I have completed and ex
 
 ## Things we learned:
 
-    I have learned how to deploy a website on Github and utilize BootStrap. I have learned how to put together a portfolio with working links.
+I have learned how to deploy a website on Github and utilize BootStrap. I have learned how to put together a portfolio with working links.
 
 ## Website Images:
 
@@ -41,7 +41,7 @@ This is a portfolio used to display examples of projects I have completed and ex
 
 ## Author:
 
-- Cristina Acosta (cacost5695@yahoo.com)
+- Cristina Acosta (ceacosta1313@gmail.com)
 
 ## License:
 
